@@ -174,4 +174,3 @@ export default function ProjectForm({ employees, onSubmit, initialData, onCancel
     </form>
   );
 }
-  
